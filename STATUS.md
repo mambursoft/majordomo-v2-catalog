@@ -27,6 +27,9 @@
 | Желательно | #1372, #1373 |
 | Опционально | #1374, #1375, #1376 |
 
+## Маркет Connect
+
+Все публичные модули добавлены в каталог Connect. 9 дополнений созданы и отправлены на модерацию: Icons, Google Location v2, Solar Planner, TabCalorie, MQTT v2, Tuya v2, Xiaomi miIO v2, Meter Upload v2, Presence v2. Репозиторий каталога является документацией и не является отдельным модулем.
 ## Анализ публикаций Connect
 
 Звіт і пропозиції спільноті: https://github.com/sergejey/majordomo/issues/1386
