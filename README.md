@@ -21,6 +21,14 @@
 | Solar Planner | https://github.com/mambursoft/majordomo-solarPlanner | Планировщик солнечной генерации и ночного заряда батарей |
 | TabCalorie | https://github.com/mambursoft/majordomo_TabCalorie | Локальный контроль углеводов, en/ru/uk |
 
+## Релизы v2.0.0
+
+- [MQTT v2](https://github.com/mambursoft/majordomo-mqtt-v2/releases/tag/v2.0.0) — архивы `majordomo-mqtt-v2-v2.0.0.tar.gz` и `.zip`
+- [Tuya v2](https://github.com/mambursoft/majordomo-tuya-v2/releases/tag/v2.0.0) — архивы `majordomo-tuya-v2-v2.0.0.tar.gz` и `.zip`
+- [Xiaomi miIO v2](https://github.com/mambursoft/majordomo-xiaomimiio-v2/releases/tag/v2.0.0) — архивы `majordomo-xiaomimiio-v2-v2.0.0.tar.gz` и `.zip`
+- [Google Location v2](https://github.com/mambursoft/majordomo-google-location-v2/releases/tag/v2.0.0) — архивы `majordomo-google-location-v2-v2.0.0.tar.gz` и `.zip`
+
+Архивы собираются автоматически через GitHub Actions при пуше тега `v*`.
 ## Установка
 
 1. Скачайте `tar.gz` из раздела Releases нужного репозитория (или используйте URL пакета в маркете Connect).
