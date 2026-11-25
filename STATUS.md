@@ -41,6 +41,10 @@
 
 Тексты для форума и карточек Connect подготовлены в `docs/CONNECT_POST.md` и `docs/CONNECT_ADDON.md`. Публикация требует входа в учётную запись mambur.
 
+## CI
+
+Невалидный YAML в `majordomo-solarPlanner` исправлен: проверка `modinfo.json` вынесена в `tests/validate_modinfo.php`. Последний workflow завершился успешно.
+
 ## Мониторинг
 
 Задача Windows «Majordomo GitHub Monitor» запускается каждые 2 часа и проверяет 16 репозиториев: issue, PR, комментарии, ревью, коммиты и релизы.
