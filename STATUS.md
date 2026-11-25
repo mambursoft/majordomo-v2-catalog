@@ -27,6 +27,11 @@
 | Желательно | #1372, #1373 |
 | Опционально | #1374, #1375, #1376 |
 
+## Анализ публикаций Connect
+
+Звіт і пропозиції спільноті: https://github.com/sergejey/majordomo/issues/1386
+
+Перший модуль за результатами аналізу: https://github.com/mambursoft/majordomo-meter-upload-v2
 ## Релизы
 
 Тег `v2.0.0` создан для MQTT v2, Tuya v2, Xiaomi miIO v2, Google Location v2 и каталога. Архивы публикуются GitHub Actions автоматически.
