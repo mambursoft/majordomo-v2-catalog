@@ -33,6 +33,16 @@
 | Vaultwarden Status v2 | https://github.com/mambursoft/majordomo-vaultwarden_status-v2 | Доступность хранилища паролей |
 | Android TV Remote v2 | https://github.com/mambursoft/majordomo-android_tv_remote-v2 | Локальное управление TV |
 | Supervisor Status v2 | https://github.com/mambursoft/majordomo-supervisor_status-v2 | Состояние локального API |
+| ESPHome Bridge v2 | https://github.com/mambursoft/majordomo-esphome_bridge-v2 | Локальный мост устройств ESPHome |
+| Zigbee2MQTT Status v2 | https://github.com/mambursoft/majordomo-zigbee2mqtt_status-v2 | Состояние координатора Zigbee |
+| Node-RED Status v2 | https://github.com/mambursoft/majordomo-nodered_status-v2 | Доступность редактора потоков |
+| Piper TTS v2 | https://github.com/mambursoft/majordomo-piper_tts-v2 | Локальный синтез речи |
+| Whisper STT v2 | https://github.com/mambursoft/majordomo-whisper_stt-v2 | Локальное распознавание речи |
+| AdGuard Home Status v2 | https://github.com/mambursoft/majordomo-adguard_home-v2 | Здоровье домашнего DNS |
+| Samba Backup Status v2 | https://github.com/mambursoft/majordomo-samba_backup-v2 | Локальные резервные копии |
+| Matter Bridge Status v2 | https://github.com/mambursoft/majordomo-matter_bridge-v2 | Локальный контроллер Matter |
+| OpenWakeWord Status v2 | https://github.com/mambursoft/majordomo-openwakeword-v2 | Локальные ключевые фразы |
+| Adaptive Lighting v2 | https://github.com/mambursoft/majordomo-adaptive_lighting-v2 | Освещение по положению солнца |
 ## Релизы v2.0.0
 
 - [MQTT v2](https://github.com/mambursoft/majordomo-mqtt-v2/releases/tag/v2.0.0) — архивы `majordomo-mqtt-v2-v2.0.0.tar.gz` и `.zip`
@@ -53,6 +63,16 @@
 - Vaultwarden Status v2: https://github.com/mambursoft/majordomo-vaultwarden_status-v2/releases/tag/v1.0.0
 - Android TV Remote v2: https://github.com/mambursoft/majordomo-android_tv_remote-v2/releases/tag/v1.0.0
 - Supervisor Status v2: https://github.com/mambursoft/majordomo-supervisor_status-v2/releases/tag/v1.0.0
+- ESPHome Bridge v2: https://github.com/mambursoft/majordomo-esphome_bridge-v2/releases/tag/v1.0.0
+- Zigbee2MQTT Status v2: https://github.com/mambursoft/majordomo-zigbee2mqtt_status-v2/releases/tag/v1.0.0
+- Node-RED Status v2: https://github.com/mambursoft/majordomo-nodered_status-v2/releases/tag/v1.0.0
+- Piper TTS v2: https://github.com/mambursoft/majordomo-piper_tts-v2/releases/tag/v1.0.0
+- Whisper STT v2: https://github.com/mambursoft/majordomo-whisper_stt-v2/releases/tag/v1.0.0
+- AdGuard Home Status v2: https://github.com/mambursoft/majordomo-adguard_home-v2/releases/tag/v1.0.0
+- Samba Backup Status v2: https://github.com/mambursoft/majordomo-samba_backup-v2/releases/tag/v1.0.0
+- Matter Bridge Status v2: https://github.com/mambursoft/majordomo-matter_bridge-v2/releases/tag/v1.0.0
+- OpenWakeWord Status v2: https://github.com/mambursoft/majordomo-openwakeword-v2/releases/tag/v1.0.0
+- Adaptive Lighting v2: https://github.com/mambursoft/majordomo-adaptive_lighting-v2/releases/tag/v1.0.0
 ## Установка
 
 1. Скачайте `tar.gz` из раздела Releases нужного репозитория (или используйте URL пакета в маркете Connect).
