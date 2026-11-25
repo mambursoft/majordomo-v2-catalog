@@ -21,7 +21,7 @@
 | Solar Planner | https://github.com/mambursoft/majordomo-solarPlanner | Планировщик солнечной генерации и ночного заряда батарей |
 | TabCalorie | https://github.com/mambursoft/majordomo_TabCalorie | Локальный контроль углеводов, en/ru/uk |
 
-| Meter Upload v2 | https://github.com/mambursoft/majordomo-meter-upload-v2 | Универсальная отправка показаний: ТЭСК/ТОСК/Saures/«Мой газ», Київенерго/Київгаз/Укргаз/Львівгаз, фізособи та юрособи, офлайн-очередь |
+| Meter Upload v2 | https://github.com/mambursoft/majordomo-meter-upload-v2 | Универсальная отправка показаний: ТЭСК/ТОСК/Saures/«Мой газ», Київенерго/Київгаз/Укргаз/Львівгаз, фізособи та юрособи, ручний режим для Ясно/КиївВодоканал/Київтеплоенерго/ДТЕК, офлайн-очередь |
 | Presence v2 | https://github.com/mambursoft/majordomo-presence-v2 | Локальное определение присутствия по BLE-меткам через MQTT; адаптировано под Europe/Kyiv и работу без интернета |
 ## Релизы v2.0.0
 
@@ -31,7 +31,7 @@
 - [Google Location v2](https://github.com/mambursoft/majordomo-google-location-v2/releases/tag/v2.0.0) — архивы `majordomo-google-location-v2-v2.0.0.tar.gz` и `.zip`
 
 Архивы собираются автоматически через GitHub Actions при пуше тега `v*`.
-- Meter Upload v2: https://github.com/mambursoft/majordomo-meter-upload-v2/releases/tag/v2.2.0
+- Meter Upload v2: https://github.com/mambursoft/majordomo-meter-upload-v2/releases/tag/v2.3.0
 - Presence v2: https://github.com/mambursoft/majordomo-presence-v2/releases/tag/v2.1.0
 ## Установка
 
