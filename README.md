@@ -43,6 +43,16 @@
 | Matter Bridge Status v2 | https://github.com/mambursoft/majordomo-matter_bridge-v2 | Локальный контроллер Matter |
 | OpenWakeWord Status v2 | https://github.com/mambursoft/majordomo-openwakeword-v2 | Локальные ключевые фразы |
 | Adaptive Lighting v2 | https://github.com/mambursoft/majordomo-adaptive_lighting-v2 | Освещение по положению солнца |
+| Xiaomi Miot Auto v2 | https://github.com/mambursoft/majordomo-xiaomi_miot_auto-v2 | Локальное управление устройствами Xiaomi |
+| Tasmota Status v2 | https://github.com/mambursoft/majordomo-tasmota_status-v2 | Состояние устройств Tasmota |
+| Shelly Gen2 v2 | https://github.com/mambursoft/majordomo-shelly_gen2-v2 | Показания устройств Shelly Gen2 |
+| Z-Wave JS UI v2 | https://github.com/mambursoft/majordomo-zwave_js_ui-v2 | Состояние контроллера Z-Wave |
+| LG webOS TV v2 | https://github.com/mambursoft/majordomo-lg_webos_tv-v2 | Локальный мост LG webOS |
+| Samsung TV v2 | https://github.com/mambursoft/majordomo-samsung_tv-v2 | Локальный мост Samsung TV |
+| Kodi Media v2 | https://github.com/mambursoft/majordomo-kodi_media-v2 | Управление Kodi через JSON-RPC |
+| qBittorrent Status v2 | https://github.com/mambursoft/majordomo-qbittorrent_status-v2 | Состояние WebUI клиента |
+| SaveEcoBot Air Quality v2 | https://github.com/mambursoft/majordomo-saveecobot_air-v2 | Качество воздуха в Украине |
+| Ukrposhta Tracking v2 | https://github.com/mambursoft/majordomo-ukrposhta_tracking-v2 | Статус отправлений Укрпочты |
 ## Релизы v2.0.0
 
 - [MQTT v2](https://github.com/mambursoft/majordomo-mqtt-v2/releases/tag/v2.0.0) — архивы `majordomo-mqtt-v2-v2.0.0.tar.gz` и `.zip`
@@ -73,6 +83,16 @@
 - Matter Bridge Status v2: https://github.com/mambursoft/majordomo-matter_bridge-v2/releases/tag/v1.0.0
 - OpenWakeWord Status v2: https://github.com/mambursoft/majordomo-openwakeword-v2/releases/tag/v1.0.0
 - Adaptive Lighting v2: https://github.com/mambursoft/majordomo-adaptive_lighting-v2/releases/tag/v1.0.0
+- Xiaomi Miot Auto v2: https://github.com/mambursoft/majordomo-xiaomi_miot_auto-v2/releases/tag/v1.0.0
+- Tasmota Status v2: https://github.com/mambursoft/majordomo-tasmota_status-v2/releases/tag/v1.0.0
+- Shelly Gen2 v2: https://github.com/mambursoft/majordomo-shelly_gen2-v2/releases/tag/v1.0.0
+- Z-Wave JS UI v2: https://github.com/mambursoft/majordomo-zwave_js_ui-v2/releases/tag/v1.0.0
+- LG webOS TV v2: https://github.com/mambursoft/majordomo-lg_webos_tv-v2/releases/tag/v1.0.0
+- Samsung TV v2: https://github.com/mambursoft/majordomo-samsung_tv-v2/releases/tag/v1.0.0
+- Kodi Media v2: https://github.com/mambursoft/majordomo-kodi_media-v2/releases/tag/v1.0.0
+- qBittorrent Status v2: https://github.com/mambursoft/majordomo-qbittorrent_status-v2/releases/tag/v1.0.0
+- SaveEcoBot Air Quality v2: https://github.com/mambursoft/majordomo-saveecobot_air-v2/releases/tag/v1.0.0
+- Ukrposhta Tracking v2: https://github.com/mambursoft/majordomo-ukrposhta_tracking-v2/releases/tag/v1.0.0
 ## Установка
 
 1. Скачайте `tar.gz` из раздела Releases нужного репозитория (или используйте URL пакета в маркете Connect).
