@@ -21,6 +21,7 @@
 | Solar Planner | https://github.com/mambursoft/majordomo-solarPlanner | Планировщик солнечной генерации и ночного заряда батарей |
 | TabCalorie | https://github.com/mambursoft/majordomo_TabCalorie | Локальный контроль углеводов, en/ru/uk |
 
+| Meter Upload v2 | https://github.com/mambursoft/majordomo-meter-upload-v2 | Универсальная отправка показаний счётчиков: провайдеры ТЭСК/ТОСК/Saures/«Мой газ» и произвольный endpoint |
 ## Релизы v2.0.0
 
 - [MQTT v2](https://github.com/mambursoft/majordomo-mqtt-v2/releases/tag/v2.0.0) — архивы `majordomo-mqtt-v2-v2.0.0.tar.gz` и `.zip`
@@ -29,6 +30,7 @@
 - [Google Location v2](https://github.com/mambursoft/majordomo-google-location-v2/releases/tag/v2.0.0) — архивы `majordomo-google-location-v2-v2.0.0.tar.gz` и `.zip`
 
 Архивы собираются автоматически через GitHub Actions при пуше тега `v*`.
+- Meter Upload v2: https://github.com/mambursoft/majordomo-meter-upload-v2/releases/tag/v2.0.0
 ## Установка
 
 1. Скачайте `tar.gz` из раздела Releases нужного репозитория (или используйте URL пакета в маркете Connect).
