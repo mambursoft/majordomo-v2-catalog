@@ -39,7 +39,11 @@
 
 ## Публикация
 
-Тексты для форума и карточек Connect подготовлены в `docs/CONNECT_POST.md` и `docs/CONNECT_ADDON.md`. Публикация требует входа в учётную запись mambur.
+Тексты для форума и карточек Connect подготовлены в `docs/CONNECT_POST.md` и `docs/CONNECT_ADDON.md`.
+
+Анонс опубликован в блоге Connect: https://connect.smartliving.ru/profile/11772/blog726.html
+
+Публикация карточек дополнений выполняется через раздел «Мои дополнения» после входа в учётную запись.
 
 ## CI
 
