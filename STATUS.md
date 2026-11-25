@@ -49,6 +49,17 @@
 
 Невалидный YAML в `majordomo-solarPlanner` исправлен: проверка `modinfo.json` вынесена в `tests/validate_modinfo.php`. Последний workflow завершился успешно.
 
+Всем модулям добавлен workflow `build-package.yml`: при каждом push и pull_request собирается архив и публикуется как artifact. Для `majordomo-solarPlanner` используется существующий `build_package.py`.
+
+Аналогичные предложения отправлены upstream:
+
+- `sergejey/majordomo` #1380
+- `sergejey/majordomo_gptchat` #18
+- `Anisan/majordomo-backup` #12
+- `sergejey/majordomo-mqtt` #61
+- `fandaymon/majordomo-tuya` #21
+- `skysilver-lab/majordomo-xiaomimiio` #29
+
 ## Мониторинг
 
 Задача Windows «Majordomo GitHub Monitor» запускается каждые 2 часа и проверяет 16 репозиториев: issue, PR, комментарии, ревью, коммиты и релизы.
