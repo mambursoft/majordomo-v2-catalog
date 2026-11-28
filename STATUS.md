@@ -29,12 +29,13 @@
 
 ## Маркет Connect
 
-Все публичные модули добавлены в каталог Connect. 9 дополнений созданы и отправлены на модерацию: Icons, Google Location v2, Solar Planner, TabCalorie, MQTT v2, Tuya v2, Xiaomi miIO v2, Meter Upload v2, Presence v2. Репозиторий каталога является документацией и не является отдельным модулем.
+Все публичные модули добавлены в каталог Connect. Первоначальная партия из 9 дополнений отправлена на модерацию: Icons, Google Location v2, Solar Planner, TabCalorie, MQTT v2, Tuya v2, Xiaomi miIO v2, Meter Upload v2, Presence v2. Репозиторий каталога является документацией и не является отдельным модулем.
+
 ## Анализ публикаций Connect
 
-Звіт і пропозиції спільноті: https://github.com/sergejey/majordomo/issues/1386
+Отчёт и предложения сообществу: https://github.com/sergejey/majordomo/issues/1386
 
-Перший модуль за результатами аналізу: https://github.com/mambursoft/majordomo-meter-upload-v2
+Первый модуль по результатам анализа: https://github.com/mambursoft/majordomo-meter-upload-v2
 ## Релизы
 
 Тег `v2.0.0` создан для MQTT v2, Tuya v2, Xiaomi miIO v2, Google Location v2 и каталога. Архивы публикуются GitHub Actions автоматически.
@@ -70,4 +71,4 @@
 
 ## Мониторинг
 
-Задача Windows «Majordomo GitHub Monitor» запускается каждые 2 часа и проверяет 16 репозиториев: issue, PR, комментарии, ревью, коммиты и релизы.
+Монитор GitHub запускается через `pwsh`: интервал 1 час днём и 4 часа ночью (23:00 и 03:00). Он проверяет репозитории: issue, PR, комментарии, ревью, коммиты и релизы.
